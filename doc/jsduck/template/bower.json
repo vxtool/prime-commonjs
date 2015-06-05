@@ -1,0 +1,11 @@
+{
+  "name": "compreonline",
+  "version": "0.0.0",
+  "authors": [
+    "Hemerson vianna <hlourenco@mongeralaegon.com.br>"
+  ],
+	"dependencies": {
+		"bower-extjs": "0.0.4"
+	},
+	"devDependencies": {}
+}

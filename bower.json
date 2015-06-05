@@ -1,0 +1,15 @@
+{
+  "name": "commonjs-skeleton",
+  "version": "1.0",
+  "authors": [
+    "@hemersonvianna"
+  ],
+  "description": "Biblioteca Commonjs Skeleton",
+  "license": "n",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test"
+  ]
+}

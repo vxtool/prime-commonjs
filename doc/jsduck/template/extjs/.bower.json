@@ -1,0 +1,33 @@
+{
+  "name": "bower-extjs",
+  "version": "0.0.4",
+  "homepage": "https://github.com/mb2o/bower-extjs",
+  "authors": [
+    "mb2o <mboomaars@gmail.com>"
+  ],
+  "description": "Simple ExtJS distribution package for Bower",
+  "main": "ext-all-dev.js",
+  "keywords": [
+    "extjs",
+    "javascript",
+    "framework"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".idea",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.0.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.4",
+    "commit": "3a106c062704dd925810ae3c92aa07418d2c04e8"
+  },
+  "_source": "git://github.com/mb2o/bower-extjs.git",
+  "_target": "0.0.4",
+  "_originalSource": "bower-extjs"
+}
