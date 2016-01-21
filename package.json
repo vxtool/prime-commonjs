@@ -1,7 +1,7 @@
 {
-  "name": "commonjs-skeleton",
-  "description": "Framework JavaScript",
-  "version": "1.0",
+  "name": "prime-commonjs",
+  "description": "Resources JavaScript",
+  "version": "1.0.0",
   "homepage": "",
   "author": {
     "name": "Hemerson vianna",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:hemersonvianna/commonjs-skeleton.git"
+    "url": "https://github.com/prime-solutions/prime-commonjs.git"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "/blob/master/LICENSE-MIT"
+      "url": "http://hemersonvianna.mit-license.org/"
     }
   ],
   "main": "./lib/common/_config.js",
