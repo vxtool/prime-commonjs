@@ -1,7 +1,7 @@
 # Prime CommonJS
 
-[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/prime-solutions/prime-commonjs/blob/master/LICENSE.md)
-[![issues](https://img.shields.io/github/issues/prime-solutions/prime-commonjs.svg)](https://github.com/prime-solutions/prime-commonjs/issues)
+[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
+[![issues](https://img.shields.io/github/issues/prime-solutions/prime-commonjs.svg?style=flat-square)](https://github.com/prime-solutions/prime-commonjs/issues)
 
 ## Contributing
 
