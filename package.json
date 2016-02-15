@@ -3,13 +3,13 @@
   "description": "Resources JavaScript",
   "version": "0.1.0",
   "homepage": "",
-  "author": {
-    "name": "Hemerson vianna",
-    "email": "hemerson.lourenco@gmail.com"
-  },
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://hemersonvianna.io)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prime-solutions/prime-commonjs.git"
+    "url": "git+https://github.com/prime-solutions/prime-commonjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prime-solutions/prime-commonjs/issues"
   },
   "licenses": [
     {
@@ -18,15 +18,17 @@
     }
   ],
   "main": "./lib/common/_config.js",
+  "keywords": [
+    "prime",
+    "commonjs",
+    "js"
+  ],
   "engines": {
     "node": ">= 0.10.0"
   },
-  "scripts": {
-    "test": "grunt mochatest"
-  },
   "dependencies": {
-  	"chai": "^2.2.0",
-  	"jquery.1": "^1.0.0",
+    "chai": "^2.2.0",
+    "jquery.1": "^1.0.0",
     "mediator-js": "^0.9.9",
     "mocha": "^2.2.1",
     "sinon": "^1.14.1"
@@ -42,5 +44,7 @@
     "load-grunt-config": "^0.10.0",
     "load-grunt-tasks": "^0.4.0"
   },
-  "keywords": []
+  "scripts": {
+    "test": "grunt mochatest"
+  }
 }
