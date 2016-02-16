@@ -1,7 +1,7 @@
 {
   "name": "prime-commonjs",
-  "description": "Resources JavaScript",
-  "version": "0.1.0",
+  "description": "Prime structure of resources in CommonJS",
+  "version": "0.2.0",
   "homepage": "",
   "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://hemersonvianna.io)",
   "repository": {

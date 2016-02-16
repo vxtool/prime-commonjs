@@ -1,11 +1,21 @@
 {
-  "name": "commonjs-skeleton",
-  "version": "1.0",
-  "authors": [
-    "@hemersonvianna"
+  "name": "prime-commonjs",
+  "description": "Prime structure of resources in CommonJS",
+  "version": "0.2.0",
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://hemersonvianna.io)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prime-solutions/prime-commonjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prime-solutions/prime-commonjs/issues"
+  },
+  "license": [
+    {
+      "type": "MIT",
+      "url": "http://hemersonvianna.mit-license.org/"
+    }
   ],
-  "description": "Biblioteca Commonjs Skeleton",
-  "license": "n",
   "private": true,
   "ignore": [
     "**/.*",
