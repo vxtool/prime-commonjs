@@ -1,10 +1,10 @@
 # Prime CommonJS
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/prime-solutions/prime-commonjs.svg?style=flat-square)](https://github.com/prime-solutions/prime-commonjs/issues)
-[![GitHub release](https://img.shields.io/github/release/prime-solutions/prime-commonjs.svg?style=flat-square)](https://github.com/prime-solutions/prime-commonjs/releases)
+[![issues](https://img.shields.io/github/issues/descco-tools/prime-commonjs.svg?style=flat-square)](https://github.com/descco-tools/prime-commonjs/issues)
+[![GitHub release](https://img.shields.io/github/release/descco-tools/prime-commonjs.svg?style=flat-square)](https://github.com/descco-tools/prime-commonjs/releases)
 [![npm](https://img.shields.io/npm/dt/prime-commonjs.svg?style=flat-square)](https://www.npmjs.com/package/prime-commonjs)
-[![devDependency Status](https://img.shields.io/david/dev/prime-solutions/prime-commonjs.svg?style=flat-square)](https://david-dm.org/prime-solutions/prime-commonjs#info=devDependencies)
+[![devDependency Status](https://img.shields.io/david/dev/descco-tools/prime-commonjs.svg?style=flat-square)](https://david-dm.org/descco-tools/prime-commonjs#info=devDependencies)
 
 ## Translations
 
@@ -20,7 +20,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/prime-solutions/prime-commonjs/releases) for detailed changelog.
+Check [Releases](https://github.com/descco-tools/prime-commonjs/releases) for detailed changelog.
 
 ## License
 

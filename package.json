@@ -2,13 +2,13 @@
   "name": "prime-commonjs",
   "description": "Prime structure of resources in CommonJS",
   "version": "1.0.1",
-  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://hemersonvianna.io)",
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://descco.io)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prime-solutions/prime-commonjs.git"
+    "url": "git+https://github.com/descco-tools/prime-commonjs.git"
   },
   "bugs": {
-    "url": "https://github.com/prime-solutions/prime-commonjs/issues"
+    "url": "https://github.com/descco-tools/prime-commonjs/issues"
   },
   "licenses": [
     {
