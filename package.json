@@ -1,7 +1,7 @@
 {
   "name": "prime-commonjs",
   "description": "Prime structure of resources in CommonJS",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://descco.io)",
   "repository": {
     "type": "git",
