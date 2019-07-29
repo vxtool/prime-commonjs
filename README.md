@@ -1,10 +1,12 @@
 # Prime CommonJS
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/prime-commonjs.svg?style=flat-square)](https://github.com/descco-tools/prime-commonjs/issues)
-[![GitHub release](https://img.shields.io/github/release/descco-tools/prime-commonjs.svg?style=flat-square)](https://github.com/descco-tools/prime-commonjs/releases)
-[![npm](https://img.shields.io/npm/dt/prime-commonjs.svg?style=flat-square)](https://www.npmjs.com/package/prime-commonjs)
-[![devDependency Status](https://img.shields.io/david/dev/descco-tools/prime-commonjs.svg?style=flat-square)](https://david-dm.org/descco-tools/prime-commonjs#info=devDependencies)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/prime-commonjs.svg)](https://github.com/org-victorinox/prime-commonjs/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-victorinox/prime-commonjs.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/prime-commonjs.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/prime-commonjs.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/prime-commonjs.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/prime-commonjs/total.svg)
 
 ## Translations
 
@@ -20,7 +22,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/descco-tools/prime-commonjs/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/prime-commonjs/releases) for detailed changelog.
 
 ## License
 
